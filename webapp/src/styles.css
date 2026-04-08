@@ -1,0 +1,5 @@
+body{background:#FFF8F2;color:#333;font-family:Inter,Arial;}
+.header{background:#FF6B35;color:#fff;padding:16px;text-align:center;}
+.card{border-radius:8px;padding:12px;background:#fff;margin:12px;display:inline-block;width:180px;vertical-align:top;}
+button{background:#FF6B35;color:#fff;border:none;padding:8px 12px;border-radius:6px;cursor:pointer;}
+.checkout{display:block;margin:20px;padding:12px;background:#2E2E2E;color:#fff;text-align:center;border-radius:8px;text-decoration:none;}
